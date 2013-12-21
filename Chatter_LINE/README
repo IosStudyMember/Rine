@@ -1,0 +1,11 @@
+1 What's this?
+A chat app by Java socket programming.
+
+2 How to start app?
+[server] java -jar chatter.jar :port
+[client] java -jar chatter.jar :host :port
+
+3 How to stop app?
+put "bye" to the command line. (quotes are just for clearity)
+
+
