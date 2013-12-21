@@ -4,3 +4,4 @@ Rine
 
 【開発メンバー】
 ・TakahiroKaneko
+・Go Uehara
